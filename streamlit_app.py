@@ -1,4 +1,4 @@
-DEFAULT_API_URL = "https://render-api-nalc.onrender.com"
+DEFAULT_API_URL = "https://stock-api-8wh4.onrender.com"
 
 import requests, streamlit as st
 
